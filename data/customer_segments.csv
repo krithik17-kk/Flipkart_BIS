@@ -1,0 +1,101 @@
+CustomerID,Recency,Frequency,Monetary,Segment
+1001,15,19,2971,Potential Loyalist
+1002,170,17,1516,Loyal Customers
+1003,198,4,1026,Champions
+1004,144,9,2486,Champions
+1005,104,13,4432,At Risk
+1006,180,18,4590,Champions
+1007,7,10,3858,Potential Loyalist
+1008,178,19,995,Champions
+1009,7,6,2842,Champions
+1010,75,10,3000,At Risk
+1011,182,4,4971,At Risk
+1012,78,19,3074,Loyal Customers
+1013,91,18,1247,At Risk
+1014,105,11,3184,At Risk
+1015,94,10,2346,Champions
+1016,164,15,1135,Potential Loyalist
+1017,139,4,4051,Loyal Customers
+1018,128,9,2383,Loyal Customers
+1019,139,2,4069,Lost
+1020,92,16,736,At Risk
+1021,40,8,4230,Champions
+1022,67,5,4322,At Risk
+1023,17,9,4839,Potential Loyalist
+1024,61,18,4965,Potential Loyalist
+1025,116,17,3291,Champions
+1026,194,4,593,At Risk
+1027,67,9,1734,Loyal Customers
+1028,160,3,2946,Potential Loyalist
+1029,179,1,4765,Potential Loyalist
+1030,9,7,2732,At Risk
+1031,146,18,1165,Champions
+1032,150,19,4785,Loyal Customers
+1033,198,15,4067,At Risk
+1034,106,10,2648,Loyal Customers
+1035,14,7,4357,Loyal Customers
+1036,85,14,2011,At Risk
+1037,101,18,2598,Lost
+1038,139,9,3559,Potential Loyalist
+1039,132,14,876,At Risk
+1040,87,10,3004,At Risk
+1041,52,2,4224,Potential Loyalist
+1042,35,17,4655,At Risk
+1043,55,11,2197,Potential Loyalist
+1044,15,19,3742,At Risk
+1045,181,2,711,Champions
+1046,33,7,3418,Lost
+1047,106,14,2828,Lost
+1048,8,3,2775,Potential Loyalist
+1049,145,10,3431,Loyal Customers
+1050,199,15,1354,Lost
+1051,28,13,2365,Potential Loyalist
+1052,54,12,2818,Potential Loyalist
+1053,65,19,1000,Lost
+1054,30,2,3520,Champions
+1055,189,15,4711,Loyal Customers
+1056,10,1,2764,Loyal Customers
+1057,90,17,4943,At Risk
+1058,194,8,2061,Champions
+1059,61,16,859,Potential Loyalist
+1060,55,12,2091,Lost
+1061,51,16,2096,Potential Loyalist
+1062,196,12,3154,Loyal Customers
+1063,83,16,2241,Champions
+1064,177,15,4494,At Risk
+1065,199,16,4482,Potential Loyalist
+1066,118,16,4991,Potential Loyalist
+1067,54,6,2468,Lost
+1068,119,17,4249,Lost
+1069,130,6,3532,Potential Loyalist
+1070,16,5,1317,Champions
+1071,33,1,1873,Lost
+1072,48,14,3175,Loyal Customers
+1073,145,10,4229,Potential Loyalist
+1074,184,2,1628,Potential Loyalist
+1075,112,10,3811,Champions
+1076,63,3,791,Champions
+1077,198,4,721,At Risk
+1078,95,5,1266,Loyal Customers
+1079,126,10,2764,Potential Loyalist
+1080,70,3,4846,Champions
+1081,61,9,3895,At Risk
+1082,187,18,3989,Lost
+1083,64,11,3593,Potential Loyalist
+1084,43,15,3997,At Risk
+1085,129,11,1035,Champions
+1086,165,10,558,At Risk
+1087,135,10,1655,Champions
+1088,83,16,1664,Lost
+1089,39,12,1841,Champions
+1090,15,8,1493,Loyal Customers
+1091,28,4,2844,Potential Loyalist
+1092,69,1,1853,Champions
+1093,71,7,3588,Potential Loyalist
+1094,30,18,1562,Potential Loyalist
+1095,91,6,2456,Champions
+1096,40,13,2975,Lost
+1097,54,17,4034,Lost
+1098,93,3,4705,Champions
+1099,8,6,3207,Champions
+1100,95,7,4756,Lost
